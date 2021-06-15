@@ -187,6 +187,7 @@ with little restrictions
 
 ![[Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg)
 
+sci-hub
 
 ### Open access journals
 
@@ -252,8 +253,10 @@ See e.g. [this video](https://www.youtube.com/watch?v=rHRSP1Qvexc) of H.M. Berma
 
 ## Open instruments, DIY setups
 
+
 ### Single instruments
 
+* RaspberryPi & Arduino
 * 3D printing technologies
 * Lower costs, higher accessibility
 

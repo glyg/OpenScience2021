@@ -15,9 +15,18 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="FAIRvisual.svg">
+   sodipodi:docname="FAIRvisual.svg"
+   inkscape:export-filename="/home/guillaume/Presentations/OpenScience2021/images/FAIRvisual.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
-     id="defs2">
+     id="defs2"><rect
+   x="250.72535"
+   y="98.29906"
+   width="20.327166"
+   height="28.362315"
+   id="rect2065" />
+
 	
 <path
    id="path0_fill"
@@ -104,8 +113,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="516.32321"
-     inkscape:cy="145.60232"
+     inkscape:cx="391.44963"
+     inkscape:cy="83.374646"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -251,7 +260,7 @@
     </g>
     <g
        id="surface290792"
-       transform="matrix(0.07284868,0,0,0.07284868,119.42873,111.00291)">
+       transform="matrix(0.07284868,0,0,0.07284868,112.64925,105.67375)">
       <path
          style="fill:#211e1e;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="m 652.5,383 c 0,4.97266 -4.02734,9 -9,9 H 339 c -4.96875,0 -9,-4.02734 -9,-9 V 114 c 0,-4.97266 4.03125,-9 9,-9 h 304.5 c 4.97266,0 9,4.02734 9,9 v 269"
@@ -278,7 +287,7 @@
        id="g1590"
        style="mix-blend-mode:normal"
        figma:type="group"
-       transform="matrix(0.50786749,0,0,0.50786749,-657.84457,-1104.6628)">
+       transform="matrix(0.50786749,0,0,0.50786749,-664.62405,-1109.992)">
       <g
          id="Group"
          style="mix-blend-mode:normal"
@@ -537,7 +546,7 @@
     </g>
     <g
        id="g1778"
-       transform="matrix(0.03593459,0,0,0.03593459,170.93731,118.79527)">
+       transform="matrix(0.03593459,0,0,0.03593459,164.15783,113.46611)">
       <path
          d="M 361.453,485.937 C 162.329,485.937 0.906,377.828 0.906,244.469 0.906,111.109 162.329,3 361.453,3 560.578,3 722,111.109 722,244.469 722,377.828 560.578,485.937 361.453,485.937 Z M 416.641,97.406 c -151.352,0 -274.047,73.908 -274.047,165.078 0,91.17 122.695,165.078 274.047,165.078 151.351,0 263.046,-50.529 263.046,-165.078 0,-114.513 -111.695,-165.078 -263.046,-165.078 z"
          fill="url(#gradientFill-1)"
@@ -4377,11 +4386,31 @@ aTZ98kgJXzFJkiRJkiTNQ38ATskcOvXUaaEAAAAASUVORK5CYII=
        id="image1952"
        x="5.0896921"
        y="102.43468" />
-    <circle
-       style="opacity:1;vector-effect:none;fill:#d3d7cf;fill-opacity:1;stroke-width:5.29166667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1;stroke:#2e3436"
-       id="path2061"
-       cx="263.38834"
-       cy="34.620659"
-       r="20.858376" />
+    <text
+       xml:space="preserve"
+       id="text2063"
+       style="font-family:sans-serif;font-size:4.23333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2065);" />
+    <g
+       id="g2076"
+       transform="matrix(0.47489614,0,0,0.47489614,23.717799,133.58411)">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         id="path2061"
+         cx="263.38834"
+         cy="34.620659"
+         r="20.858376" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.68867px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;stroke-width:0.230542"
+         x="249.20415"
+         y="-27.558064"
+         id="text2071"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan2069"
+           x="249.20415"
+           y="-27.558064"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.673px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';fill:#2e3436;stroke-width:0.230542">CC</tspan></text>
+    </g>
   </g>
 </svg>

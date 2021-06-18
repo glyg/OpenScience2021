@@ -32,14 +32,13 @@ deploy:
 		   -o build_html/main.html \
            --slide-level 3 \
 	       --mathjax -i
-	rsync -avvz -e "ssh -p 8012" build_html/ $(HOST):www/BioImageDB
+	rsync -avvz -e "ssh -p 8012" build_html/ $(HOST):www/OpenScience
 
 
 beamer:
 	rm -Rf build_pdf
 	mkdir build_pdf
 	cp main.md build_pdf
-	cp tyssue.bib build_pdf
 	cp -R images build_pdf
 	cd build_pdf
 	pandoc --citeproc \

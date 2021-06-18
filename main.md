@@ -107,7 +107,7 @@ with little restrictions
 ::::::
 
 
-# Creative commons, open data
+# Creative commons
 
 ## The notion of 'commons'
 
@@ -130,15 +130,27 @@ with little restrictions
 :::
 ::::::
 
+### Creative Commons
+
+::: {.columns} :::::
+::: {.column}
+- Open source licences apply to _code_
+- What about other type of digital creations?
+:::
+::: {.column}
+![[Lawrence Lessig](https://fr.wikipedia.org/wiki/Lawrence_Lessig)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lawrence_Lessig_Headshot.jpg/260px-Lawrence_Lessig_Headshot.jpg)
+:::
+::::::
+
 
 ### Creative common licences
 
 
-* Public domain : ![](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.png)
-* Attribution: ![](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.png)
-* Attribution and Share alike: ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.png)
-* Non commercial: ![](https://upload.wikimedia.org/wikipedia/commons/1/12/Cc-by-nc-sa_icon.png)
-* Non derivative: ![](https://upload.wikimedia.org/wikipedia/commons/1/16/Cc-by-nd_icon.png)
+* Public domain : ![](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)
+* Attribution: ![](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
+* Attribution and Share alike: ![](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg)
+* Non commercial: ![](https://upload.wikimedia.org/wikipedia/commons/1/12/Cc-by-nc-sa_icon.svg)
+* Non derivative: ![](https://upload.wikimedia.org/wikipedia/commons/1/16/Cc-by-nd_icon.svg)
 
 
 ## Wikipedia
@@ -185,9 +197,21 @@ with little restrictions
 
 ### Closed access publication
 
+:::: {.columns} :::
+::: {.column}
+
 ![[Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg)
 
-sci-hub
+There's an interesting [documentary](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) about him
+
+:::
+::: {.column}
+
+- There are often open access versions of closed access articles. You can use [Unpaywall](http://unpaywall.org) to find them
+-  <small> Another way is through [sci-hub](https://sci-hub.se) but it is _illegal_ </small>
+:::
+:::::
+
 
 ### Open access journals
 
@@ -195,15 +219,37 @@ sci-hub
 ::: {.column}
 
 The Public Library of Science (PLOS) was created around 2001 (Michael Eisen),
-articles are published as CC-BY
+articles are published as CC-BY.
+
 
 :::
 ::: {.column}
 
-![Open Access logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_Access_PLoS.png/220px-Open_Access_PLoS.png.png)
+![Open Access logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/110px-Open_Access_logo_PLoS_transparent.svg.png)
 :::
 :::::::::
 
+-----
+
+Types of open access
+
+::: {.columns} ::::
+::: {.column}
+
+- Gold: Published in an open-access journal that is indexed by the DOAJ.
+- Green: Toll-access on the publisher page, but there is a free copy in an OA repository.
+- Hybrid: Free under an open license in a toll-access journal.
+:::
+::: {.column}
+- Bronze: Free to read on the publisher page, but without an clearly identifiable license.
+- Closed: All other articles, including those shared only on an ASN or in Sci-Hub.
+
+:::
+:::::::::
+
+------
+
+![[Piwowar et al. 2018](https://peerj.com/articles/4375/)](https://dfzljdn9uc3pi.cloudfront.net/2018/4375/1/fig-2-full.png)
 
 ### Reproducible science
 
@@ -211,7 +257,7 @@ articles are published as CC-BY
 
 . . .
 
-![A protocol on protocols.io](images/protocolsio.png){ width=60% }
+![A protocol on [protocols.io](https://protocols.io)](images/protocolsio.png){ width=60% }
 
 - ReScience for software: [rescience.github.io](https://rescience.github.io/)
 
@@ -233,10 +279,13 @@ articles are published as CC-BY
 
 [The protein data banck](http://www.wwpdb.org/) pioneered open data (in 1971!!)
 
-<iframe src=https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?&mmdbid=191590&bu=1&showanno=1&source=full-feature width=800 height=400></iframe>
+[An exemple of interactive PDB viewer](https://swissmodel.expasy.org/interactive/H9prKX/models/04)
+
+
+> Journals & funding _require_ publication of structures in the PDB
 
 :::
-::: column
+::: {.column}
 ![[Helen M. Berman](https://en.wikipedia.org/wiki/Helen_M._Berman)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berman-photo.jpg/220px-Berman-photo.jpg)
 
 See e.g. [this video](https://www.youtube.com/watch?v=rHRSP1Qvexc) of H.M. Berman
@@ -256,9 +305,22 @@ See e.g. [this video](https://www.youtube.com/watch?v=rHRSP1Qvexc) of H.M. Berma
 
 ### Single instruments
 
-* RaspberryPi & Arduino
+
+::::: {.columns} :::
+::: {.column}
 * 3D printing technologies
+* RaspberryPi & Arduino
+* Fab-labs & makerspaces
+(MIT's «How to Make (Almost) Anything»)
 * Lower costs, higher accessibility
+:::
+::: {.column}
+![The RepRap version 1.0 (2005)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Reprap_Darwin.jpg/220px-Reprap_Darwin.jpg)
+:::
+::::::
+
+
+-----
 
 ::: {.columns} ::::
 ::: {.column}

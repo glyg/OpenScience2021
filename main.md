@@ -13,6 +13,8 @@ center: true
 
 ----
 
+![[centuri-engineering.univ-amu.fr/OpenScience/main.html](https://centuri-engineering.univ-amu.fr/OpenScience/main.html#/2)](images/QR_link.svg){ width=40% }
+
 
 # Overview
 
@@ -65,22 +67,21 @@ center: true
 :::::
 
 
-### The cathedral an the Bazaar, Eric S. Raymond
 
-![Book cover (1999)](https://upload.wikimedia.org/wikipedia/en/c/c4/Cathedral-and-the-Bazaar-book-cover.jpg)
-
-
-### Software licences
-
-
-#### The Four Freedoms
+### The Four Freedoms
 
 0. The freedom to run the program for any purpose.
 1. The freedom to study how the program works, and change it to make it do what you wish.
 2. The freedom to redistribute and make copies so you can help your neighbour.
 3. The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits.
 
-----
+
+### The cathedral an the Bazaar, Eric S. Raymond
+
+![Book cover (1999)](https://upload.wikimedia.org/wikipedia/en/c/c4/Cathedral-and-the-Bazaar-book-cover.jpg)
+
+
+### Software licences
 
 #### The virality debate
 
@@ -112,8 +113,16 @@ with little restrictions
 ## The notion of 'commons'
 
 ### The tragedy of the commons
+:::: { .columns } ::::
+::: { .column }
 
-[Garret Hardin](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+[Garret Hardin (1983)](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+:::
+:::  { .column }
+
+![Open fields in medieval England](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/300px-Plan_mediaeval_manor.jpg)
+:::
+::::
 
 ### Common Pool ressources
 
@@ -121,7 +130,7 @@ with little restrictions
 ::: {.column}
 
 * Defined by Elinor Ostrom (2009 Nobel Price in economics)
-* Common based peer production
+* See also Common based peer production
 :::
 ::: {.column}
 
@@ -135,7 +144,7 @@ with little restrictions
 ::: {.columns} :::::
 ::: {.column}
 - Open source licences apply to _code_
-- What about other type of digital creations?
+- What about other types of digital creations?
 :::
 ::: {.column}
 ![[Lawrence Lessig](https://fr.wikipedia.org/wiki/Lawrence_Lessig)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lawrence_Lessig_Headshot.jpg/260px-Lawrence_Lessig_Headshot.jpg)
